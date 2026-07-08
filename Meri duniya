@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>One Last Thing...</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Cormorant+Garamond:wght@500;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="stars"></div>
+
+<section class="landing">
+
+<p class="small">
+Someone sent you this link...
+</p>
+
+<h1 id="typing">
+Before you leave...
+there's something I need you to see.
+</h1>
+
+<button id="startBtn">
+Continue →
+</button>
+
+</section>
+
+<section id="question" class="hidden">
+
+<h1>
+Just one question...
+</h1>
+
+<p class="questionText">
+
+Are you <span class="red">Gudda</span>?
+
+</p>
+
+<div class="buttons">
+
+<button id="yes">
+Yes, it's me ❤️
+</button>
+
+<button id="no">
+No
+</button>
+
+</div>
+
+<p id="wrong"></p>
+
+</section>
+
+<section id="letter" class="hidden">
+
+<div class="glass">
+
+<h1>
+Dear Gudda,
+</h1>
+
+<p>
+
+I didn't make this website to force you to forgive me.
+
+I made it because there were things I wanted to say, gudde maine kiya glt mai maine glti kri waha bethke shayaf mai agle 5 min me khud uth jati agar mishika na ati tab tk par mai prove nahi kr payi. is website se kuch prove nahi hoga mai janti hu na hi ye prove hoga ki maine tujhe kitna ganda treat kiya uska kya jiustification hai par mai ye bolna chahti hu ki mai jar field ka har efforts physical mental emotional jo bhi is duniya me bana hai sanyam tu meri duniya tha tu hai tu thega maine kra fuck up shyd han milega mujhe karma mere purane trauma ko re live krke kyuki us din bhi mai aise hi chillati teh gyi thi ki papa kuch nahi hua tha, par papa ne bhi kaha tha ki kuch hua ho na hua ho uska hath kabdje pe rkhnna glt tha. aaj tu shyd papa ki jagah hai , side me bethna bhi glt tha. par utna nahi jitna dikha. is galti ko maaf krane ke liye mai har hadd tk chali jaungi kyuki agar tu meri zindagi se gaya sanyam mai zinda mar jaungi merko saans nahi aayega tujhe nahi hoga merpe trust ab mai justificatuon nahi dungi ki maine trust nahi toda tumne toda, you muhht hate kishika as well uske sath jaana shyd ab truama ban jaye , par mai puri jaan laga sungi is damage ko thik krne me. maine toda tujhe, gudde ko toda, chahe jaise bhi hua ho maine toda tujhe apni bakwas ghatoya randi mental health ke behaviour se aur shyd mera karma terse bhi bada ho, par iska paschyataap krne me mai puri zindagi laga dungi. shyd julys meri kismat me kabhi ache the nahi picha saal bhi aur ye saal bhi bas dono ke roles reverse hogye. par ek last bat clear krunga maine kaii ldke ko nahi chua na baat kri na situationship chlai na follow kra na dekha. mera interaction bhi galat tha jiske pashchyatap me mai jaan laga dungi. nahi thi ye choti baat na hogi. gudiya mat maan, insaan maan ke unblcok rkhle gudde. 
+</p>
+
+<div class="next">
+↓
+</div>
+
+</div>
+
+</section>
+
+<section id="memories" class="hidden">
+
+<h1>
+Our Memories
+</h1>
+
+<p>
+
+Every picture below reminds me of a moment I'll always cherish.
+
+</p>
+
+<div class="gallery">
+
+<img src="photo1.jpg">
+
+<img src="photo2.jpg">
+
+<img src="photo3.jpg">
+
+</div>
+
+</section>
+
+<section id="ending" class="hidden">
+
+<h1>
+Thank you for reading.
+</h1>
+
+<p>
+
+Whatever happens after today...
+
+mai terse pyar krna terpe try krna nahi chodhungi, behk gayi thi beech me tere past se, par ab nahi.
+
+❤️
+
+</p>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
